@@ -36,7 +36,8 @@
     "react-scripts": "^5.0.1",
     "react-typist": "^2.0.5",
     "reactstrap": "^8.9.0",
-    "sharp": "^0.31.3"
+    "sharp": "^0.31.3",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "@types/babel__core": "^7.20.0",
